@@ -1,0 +1,1 @@
+export { CatalogItemComponent } from './ui';
